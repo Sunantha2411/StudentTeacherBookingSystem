@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "student-teacher-booking-baba9",
+  "private_key_id": "adedd37ba8a315b51c70b1517175c6828a832acb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+tFs8LbaTkeqa\n2WlR7iZanuORwlJhI3Jsj72NUBrp/IiLTGhrVYIq46HNNJ+7eoKVp4KbRS6jT8Ka\nvwc/EAWLaNEBhWc9ZXl/+hk3qyUlpkt1ST+zMQ9z/dpYt9caEdIsIzjTTuj/rB0o\ndpZEM7+RtKH3A5VCSZV5efre/UE+3sxEcch8O2Zfbx9Y6ZFe/40TBu1+7D0TNa7s\nSQM7Q9cOgVSn9XBAIY0fASo04dTX/axIqTZIAX4+rn0R9tT3ynQwEPRlaBN+ZUks\nTkdrJ0D9uM2eFTaVlcaqxvRMYkbT7LTPE3E/nj3yW97PYlcT8aENAOG5PaPRdp/M\nQUQhJEhNAgMBAAECggEACm3Sj3fwhCF2swEwwUpEzq/hwhbeanGF0GoL865tyl4F\nGZkUHMqQU8gfERnPonEQsx52BgfChSvXeJ75xnkZ1IXm6C5jdvgVrOoAdwrk/Soa\n9k8LLMGCFtXLGw7ytHpFBCTo9qVaGKFQ9uWFUjWCRHWcZeXMQ9PCWOJS1d8Dsmxk\na+BEl2qqSG5PDdmyezSZCvpp5WjaO8IBhBKllP6Eus9PzCt21ft3CdwCdGyGJ5zt\nT0GZ495fWK8TPq0fM00suQX16nhef0po//aMKyFzEv5iiB0hM6PFZR0PyjmFfER1\nuLDj8UOkzZyVNvW1qgicqF6jutbFqPmTAKMSvsBIAQKBgQD30mA0ESVEanh3n6RR\nbtbKM48Puc3AjUjoiJpYzN7lYkZDosMAeux5ora/THz9pnl0h3yh0gsM6udhl/KR\nxzLW+Hhg7lrD6CIba1cp219rc8nyn5OeANH9BkllJuNpgnL02tzgzsIxGe136mWb\nRp4PKI9wLKJSZ7vN/Gkbgwv/SwKBgQDE/3KwcNqVKhBn/4CnloK+VO+Eo8enn1Yc\nz/TVUGMbSsyYMz/vqsHcP4BlKZwVwUvdvdLIpDrI0r9l7EazKNnl6tU5JggZU1co\ncP9kTIWtOK+ah6xb9GjbSywQ6WbinnrAKE/ykpp5U8LFf6KwZE6FQDUmliRs3BH2\ny/tYfLxfxwKBgGEsqvB/sJ9NKIOvo50S20JaSUSfVOCmBeq4dd1QKC7GBEtNLS2p\nBcUEWqhUc8Z6WrGo1uQVGqQsECKilEk5VOQadgl8LTcYdRdPVdRh4t6dfpiWnimc\npLqUln8FarLapf0BPQ8hw9/BDO6yiLkETcIf427W8adiaa/xw703+6JVAoGAKrbA\npWUy39jpCcOqn6vQ2XgNHxNr/Ppdb43fpkjx1D8ZsX6bRFogAqN6MXUeNNFeo8u+\n4mZJoLWhbnYWtk4LQQD0Dpoic2tQoKIvng3BhleeK8FzK9UIz1OzUE9rUYPPVc7n\n1s7W06vHtY8BNYHqTJYpcB5p83icJIkCDKOvLI0CgYEAunVZg2IsJjf0hRzC7fb4\n63yRmGonY4Cr2fk6QRQOvekKsSbdeC6TQsqqNdEIORKNuTAPWjzTrXP1EsOe+Wcb\ny2pbakS1WypbeycmyIr+L+StO4guakjblo2xmRNt/rklT5yDIyXH1GnLAw/S/2rC\n2yh51kX9UEUoOMCFSZsQPgU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-zu5jb@student-teacher-booking-baba9.iam.gserviceaccount.com",
+  "client_id": "114345476598886107046",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-zu5jb%40student-teacher-booking-baba9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
